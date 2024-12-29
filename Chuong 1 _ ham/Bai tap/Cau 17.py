@@ -18,5 +18,5 @@ def He10sangHe16(n):
         print (sd,end='')
 
 n=317547
-print(f"Hệ thập phân sang thập lục phân của {n} là:", end="")
+print(f"Hệ thập phân sang thập lục phân của {n} là: ", end="")
 He10sangHe16(n)
