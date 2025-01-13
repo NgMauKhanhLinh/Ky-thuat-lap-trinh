@@ -4,19 +4,19 @@ def CheckDoiXung(s):
         if s[i]!=s[len(s)-i-1]:
             flag=False
             break
-        return flag
+    return flag
 
 def main():
-    print("Nhập 1 chuỗi:")
-    s=input()
-    if(CheckDoiXung(s)):
+    print("Nhập 1 chuỗi: ", end='')
+    s = input()
+    if (CheckDoiXung(s)):
         print("Chuỗi bạn nhập đối xứng")
     else:
         print("Chuỗi bạn nhập không đối xứng")
-    while True:
-        main()
-        print("Tiếp tục không?(c/k):",end='')
-        s=input()
-        if s=="k":
-            break
-print("Cảm ơn!")
+while True:
+    main()
+    print("Tiếp tục không?(c/k): ",end='')
+    x=input()
+    if x=="k":
+        print("Cảm ơn!")
+        break
