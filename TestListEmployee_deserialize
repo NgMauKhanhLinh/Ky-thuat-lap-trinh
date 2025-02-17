@@ -1,0 +1,6 @@
+le=ListEmployee()
+jff=JsonFileFactory()
+arr=jff.read_data("employees.json", Employee)
+le.add_employees(arr)
+print("List of Employee after Deserializing:")
+le.print_all_employees()
