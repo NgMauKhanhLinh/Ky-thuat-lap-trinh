@@ -1,0 +1,44 @@
+[
+    {
+        "AssetId": "AS2",
+        "AssetName": "May chieu 2",
+        "ImportYear": 2017,
+        "Value": 17
+    },
+    {
+        "AssetId": "AS3",
+        "AssetName": "May chieu 3",
+        "ImportYear": 2024,
+        "Value": 25
+    },
+    {
+        "AssetId": "AS4",
+        "AssetName": "May chieu 4",
+        "ImportYear": 2019,
+        "Value": 20
+    },
+    {
+        "AssetId": "AS5",
+        "AssetName": "May chieu 5",
+        "ImportYear": 2018,
+        "Value": 10
+    },
+    {
+        "AssetId": "AS6",
+        "AssetName": "May chieu 6",
+        "ImportYear": 2018,
+        "Value": 5
+    },
+    {
+        "AssetId": "AS7",
+        "AssetName": "May chieu 7",
+        "ImportYear": 2021,
+        "Value": 50
+    },
+    {
+        "AssetId": "we",
+        "AssetName": "w2",
+        "ImportYear": "wefwef",
+        "Value": "34r423r"
+    }
+]

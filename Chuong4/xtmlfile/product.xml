@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<products>
+    <product>
+        <id>1</id>
+        <name>Heineken</name>
+        <price>$1.5</price>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Tiger</name>
+        <price>$1.3</price>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Sapporo</name>
+        <price>$1.4</price>
+    </product>
+    <product>
+        <id>4</id>
+        <name>BiaSG</name>
+        <price>$2.8</price>
+    </product>
+</products>

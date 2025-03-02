@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "name": "Heineken",
+            "price": "$1.5",
+            "slogan": "Chỉ Có Thể Là Heineken"
+        },
+        {
+            "name": "Tiger",
+            "price": "$1.3",
+            "slogan": "Tiger Beer - Bản Lĩnh Đàn Ông"
+        },
+        {
+            "name": "Sapporo",
+            "price": "$1.4",
+            "slogan": "Tận Hưởng Từng Khoảnh Khắc"
+        }
+    ]
+}
