@@ -138,7 +138,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "Chúng Vĩnh Hưng_K244060777"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Nguyen Mau Khanh Linh_K244060783"))
         self.label.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-weight:600;\">Assets Managements</span></p></body></html>"))
         self.groupBox.setTitle(_translate("MainWindow", "Assets:"))
         self.groupBox_2.setTitle(_translate("MainWindow", "Asset Details:"))
