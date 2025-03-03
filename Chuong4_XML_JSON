@@ -1,6 +1,0 @@
-class ListEmployee:
-    def__init__(self):
-      self.amployees=[]
-    def print_all_employees(self):
-      for emp in self.employees:
-         print(emp)
