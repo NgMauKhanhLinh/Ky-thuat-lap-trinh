@@ -1,7 +1,0 @@
-class ListStudent:
-   def __init__(self):
-      self.student=[]
-  def add_students(self,st)
-       self.students.append(st)
-  def add_students(self,arr)
-      self.
